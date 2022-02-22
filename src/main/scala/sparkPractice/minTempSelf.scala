@@ -45,7 +45,7 @@ object minTempSelf extends App{
     println(s"$station min Temperature = $formattedTemp")
 
   }
-
+spark.stop()
 
 
 
